@@ -15,5 +15,5 @@
             x++; //aumento en uno la posición x de la imagen
         };
         
-        spriteSheep.src="img/1942.png";
+        spriteSheep.src="img/1942.png"; //asigno el sprite completo del juego
         
